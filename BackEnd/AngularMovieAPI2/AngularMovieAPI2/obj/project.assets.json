@@ -11060,19 +11060,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Deepraj Podder\\.nuget\\packages\\": {}
+    "C:\\Users\\703201313\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deepraj Podder\\source\\repos\\AngularMovieAPI2\\AngularMovieAPI2\\AngularMovieAPI2.csproj",
+      "projectUniqueName": "C:\\Sumit\\Git\\GrabMyTicket\\BackEnd\\AngularMovieAPI2\\AngularMovieAPI2\\AngularMovieAPI2.csproj",
       "projectName": "AngularMovieAPI2",
-      "projectPath": "C:\\Users\\Deepraj Podder\\source\\repos\\AngularMovieAPI2\\AngularMovieAPI2\\AngularMovieAPI2.csproj",
-      "packagesPath": "C:\\Users\\Deepraj Podder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deepraj Podder\\source\\repos\\AngularMovieAPI2\\AngularMovieAPI2\\obj\\",
+      "projectPath": "C:\\Sumit\\Git\\GrabMyTicket\\BackEnd\\AngularMovieAPI2\\AngularMovieAPI2\\AngularMovieAPI2.csproj",
+      "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
+      "outputPath": "C:\\Sumit\\Git\\GrabMyTicket\\BackEnd\\AngularMovieAPI2\\AngularMovieAPI2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Deepraj Podder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\703201313\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11168,7 +11168,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   },

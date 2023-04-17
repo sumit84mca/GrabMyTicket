@@ -186,7 +186,8 @@ namespace AngularMovieAPI2
             }
             app.UseCors(x => x.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin());
 
-            app.UseHttpsRedirection();
+            
+            //app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseRouting();
             app.UseAuthorization();
